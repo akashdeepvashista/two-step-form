@@ -1,0 +1,19 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#navbar {
+    height: 8%;
+    background-color: #2c3c5b;
+    color: #ffffff;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+.landing {
+    height: 90%;
+    background-image: url('https://i.imgur.com/BcGrKPF.jpg');
+    background-size: cover;
+}
